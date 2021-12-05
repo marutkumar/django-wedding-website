@@ -1,0 +1,2 @@
+this is a new text file to check if the build happens automatically in jenkins
+Hello all
