@@ -1,2 +1,4 @@
 this is a new text file to check if the build happens automatically in jenkins
 Hello all
+So last one i can say is that was just half success. Lets wait and see if it actually works.
+See you all soon
